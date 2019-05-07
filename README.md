@@ -15,7 +15,7 @@ export default () => (
     <Header />
     <section>
       <Link href="/about">
-        <a>hola</a>
+        <a>Go to About Me - hola</a>
       </Link>
     </section>
   </main>
@@ -36,7 +36,7 @@ class AboutPage extends Component {
         <Header />
         <section>
           <Link href="/">
-            <a>Go to Home</a>
+            <a>Go to Home - hola</a>
           </Link>
         </section>
       </main>
